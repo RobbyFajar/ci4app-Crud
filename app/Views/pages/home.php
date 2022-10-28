@@ -8,6 +8,7 @@
                 <div class="container-fluid py-5">
                     <h1 class="display-5 fw-bold">Hello World!</h1>
                     <p class="col-md-8 fs-4">This my first app website using codeigniter 4</p>
+                    <p class="col-md-8 fs-4">My name is robby </p>
                 </div>
             </div>
         </div>
